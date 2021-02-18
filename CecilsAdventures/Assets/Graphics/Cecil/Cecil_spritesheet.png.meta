@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 7ad0556ed85207d42aca73a0138679b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1446231955662682402
+    second: Cecil_upperArm_R
+  - first:
+      213: -5149776051316530380
+    second: Cecil_upperArm_L
+  - first:
+      213: -7583309972135605937
+    second: Cecil_head
+  - first:
+      213: 121418150062574463
+    second: Cecil_upperLeg_R
+  - first:
+      213: -6991869920120362761
+    second: Cecil_upperLeg_L
+  - first:
+      213: 4553890044959532745
+    second: Cecil_lowerArm_R
+  - first:
+      213: -1436823769801220593
+    second: Cecil_lowerArm_L
+  - first:
+      213: -2622462389715115110
+    second: Cecil_torso
+  - first:
+      213: 8845141625776171434
+    second: Cecil_lowerLeg_R
+  - first:
+      213: -4931387782259621510
+    second: Cecil_lowerLeg_L
+  - first:
+      213: -5255890901778730677
+    second: Cecil_hand_R
+  - first:
+      213: 5557200235367697845
+    second: Cecil_hand_L
+  - first:
+      213: -361552076989794033
+    second: Cecil_foot_R
+  - first:
+      213: -8566251878638925986
+    second: Cecil_foot_L
+  - first:
+      213: -3937837711770767945
+    second: Cecil_spritesheet_14
+  - first:
+      213: 7971061664711977722
+    second: Cecil_spritesheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cecil_upperArm_R
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 876
+        width: 173
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.8380575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed648e3e2b3fdebe0800000000000000
+      internalID: -1446231955662682402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_upperArm_L
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 891
+        width: 166
+        height: 238
+      alignment: 9
+      pivot: {x: 0.4523034, y: 0.8127144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e67c47f15888b0800000000000000
+      internalID: -5149776051316530380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_head
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 842
+        width: 293
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5216181, y: 0.1536026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490e2922cba2c690800000000000000
+      internalID: -7583309972135605937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_upperLeg_R
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 886
+        width: 167
+        height: 227
+      alignment: 9
+      pivot: {x: 0.4431072, y: 0.20003614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc3c70a2d5fa100800000000000000
+      internalID: 121418150062574463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_upperLeg_L
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 881
+        width: 179
+        height: 224
+      alignment: 9
+      pivot: {x: 0.42922786, y: 0.2242963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ac772a53e7fe90800000000000000
+      internalID: -6991869920120362761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_lowerArm_R
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 627
+        width: 161
+        height: 233
+      alignment: 9
+      pivot: {x: 0.44098657, y: 0.83981365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6200c4edaa23f30800000000000000
+      internalID: 4553890044959532745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_lowerArm_L
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 626
+        width: 149
+        height: 244
+      alignment: 9
+      pivot: {x: 0.40435055, y: 0.8309842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e192cd4606f0ce0800000000000000
+      internalID: -1436823769801220593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_torso
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 294
+        width: 361
+        height: 542
+      alignment: 9
+      pivot: {x: 0.4429754, y: 0.19907056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936538d9542b9bd0800000000000000
+      internalID: -2622462389715115110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_lowerLeg_R
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 607
+        width: 118
+        height: 207
+      alignment: 9
+      pivot: {x: 0.37922177, y: 0.13280484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e860f17140ca70800000000000000
+      internalID: 8845141625776171434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_lowerLeg_L
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 603
+        width: 121
+        height: 213
+      alignment: 9
+      pivot: {x: 0.34295604, y: 0.12827928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c6bc80f0309bb0800000000000000
+      internalID: -4931387782259621510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_hand_R
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 458
+        width: 135
+        height: 171
+      alignment: 9
+      pivot: {x: 0.3005926, y: 0.8333751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41754d52135f07b0800000000000000
+      internalID: -5255890901778730677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_hand_L
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 455
+        width: 141
+        height: 173
+      alignment: 9
+      pivot: {x: 0.3090777, y: 0.8569812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0fc6bb242f1d40800000000000000
+      internalID: 5557200235367697845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_foot_R
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 395
+        width: 221
+        height: 136
+      alignment: 9
+      pivot: {x: 0.2922065, y: 0.7328725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f7333d428bfaf0800000000000000
+      internalID: -361552076989794033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_foot_L
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 388
+        width: 231
+        height: 140
+      alignment: 9
+      pivot: {x: 0.2943464, y: 0.7149083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5744356d4f8e1980800000000000000
+      internalID: -8566251878638925986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 46
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd24c6f67df959c0800000000000000
+      internalID: -3937837711770767945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecil_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 14
+        width: 480
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa24eff956ee9e60800000000000000
+      internalID: 7971061664711977722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

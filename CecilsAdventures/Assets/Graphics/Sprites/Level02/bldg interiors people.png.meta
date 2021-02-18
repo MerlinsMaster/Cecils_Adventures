@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 2bcfcabacb921134cb1559b28a422afa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9109590802095817875
+    second: man head
+  - first:
+      213: 2939881443853075240
+    second: man arm
+  - first:
+      213: -7779471260002725613
+    second: gurl upper arm
+  - first:
+      213: -2030481745719650931
+    second: gurl torso
+  - first:
+      213: -2550040649169251774
+    second: gurl ponytail
+  - first:
+      213: 6377024788745293780
+    second: gurl head
+  - first:
+      213: 7602476535354676743
+    second: man torso
+  - first:
+      213: -6556778283583320271
+    second: man leg
+  - first:
+      213: 4493190689188216419
+    second: gurl lower arm
+  - first:
+      213: -7626964760586972261
+    second: gurl bewb
+  - first:
+      213: 5037238865580178108
+    second: gurl pelvis
+  - first:
+      213: -392777313297007173
+    second: gurl thigh
+  - first:
+      213: 7879305912097603254
+    second: office chair
+  - first:
+      213: -1263473400280014080
+    second: thumbnail
+  - first:
+      213: -256667750970534253
+    second: guy body
+  - first:
+      213: -7527813450132084290
+    second: guy head
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: man head
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1734
+        width: 204
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5662392, y: 0.10256464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb9ef1e6b349180800000000000000
+      internalID: -9109590802095817875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man arm
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1622
+        width: 173
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5156211, y: 0.8767643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82300a6d89e8cc820800000000000000
+      internalID: 2939881443853075240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl upper arm
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1718
+        width: 162
+        height: 276
+      alignment: 9
+      pivot: {x: 0.85033125, y: 0.8622998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3115d2f3b14c90490800000000000000
+      internalID: -7779471260002725613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl torso
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1548
+        width: 213
+        height: 474
+      alignment: 9
+      pivot: {x: 0.33505434, y: 0.07237971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8517773c9742d3e0800000000000000
+      internalID: -2030481745719650931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl ponytail
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1759
+        width: 128
+        height: 253
+      alignment: 9
+      pivot: {x: 0.56333923, y: 0.9165999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d57f4a8f6c9cd0800000000000000
+      internalID: -2550040649169251774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl head
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1651
+        width: 322
+        height: 368
+      alignment: 9
+      pivot: {x: 0.5923234, y: 0.14014833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0609224ebf7850800000000000000
+      internalID: 6377024788745293780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man torso
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1006
+        width: 440
+        height: 663
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.09237409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706de07112c618960800000000000000
+      internalID: 7602476535354676743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: man leg
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 897
+        width: 181
+        height: 659
+      alignment: 9
+      pivot: {x: 0.6343812, y: 0.9059992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4500f3e4a105a0800000000000000
+      internalID: -6556778283583320271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl lower arm
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1398
+        width: 203
+        height: 262
+      alignment: 9
+      pivot: {x: 0.8195139, y: 0.84039867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ef72930250b5e30800000000000000
+      internalID: 4493190689188216419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl bewb
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1543
+        width: 171
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b939acaa5f3972690800000000000000
+      internalID: -7626964760586972261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl pelvis
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1214
+        width: 209
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5129307, y: 0.5108972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab2bf4f0ed7e540800000000000000
+      internalID: 5037238865580178108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gurl thigh
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1179
+        width: 384
+        height: 256
+      alignment: 9
+      pivot: {x: 0.88004714, y: 0.18329382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd79155d139c8af0800000000000000
+      internalID: -392777313297007173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: office chair
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 452
+        width: 513
+        height: 739
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.050183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be763f0bfae85d60800000000000000
+      internalID: 7879305912097603254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 525
+        width: 665
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a729f2ad377ee0800000000000000
+      internalID: -1263473400280014080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy body
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 1347
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3965a165a02207cf0800000000000000
+      internalID: -256667750970534253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guy head
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 46
+        width: 338
+        height: 261
+      alignment: 9
+      pivot: {x: 0.13219565, y: 0.21007067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb928791d85d78790800000000000000
+      internalID: -7527813450132084290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

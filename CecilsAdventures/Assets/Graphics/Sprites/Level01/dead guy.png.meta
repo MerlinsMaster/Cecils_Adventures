@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 8be06b1e23c61dd409a7b4a29efe6230
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -492782477563773448
+    second: dead guy_head
+  - first:
+      213: 25667662588755107
+    second: dead guy_torso
+  - first:
+      213: -8094322433368950138
+    second: dead guy_hand
+  - first:
+      213: -4171756646981797224
+    second: dead guy_upper_finger
+  - first:
+      213: -2261952347578763150
+    second: dead guy_lower_finger
+  - first:
+      213: 3691003178682707663
+    second: dead guy_foot
+  - first:
+      213: -7034051976009573493
+    second: dead guy_upper_thumb
+  - first:
+      213: -8871743335928936640
+    second: dead guy_lower_thumb
+  - first:
+      213: -5301024675003302091
+    second: dead guy_upper_arm
+  - first:
+      213: -5739965912688533552
+    second: dead guy_lower_arm
+  - first:
+      213: 8116526958376747246
+    second: dead guy_upper_leg
+  - first:
+      213: -1654384624034209884
+    second: dead guy_lower_leg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dead guy_head
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1307
+        width: 641
+        height: 642
+      alignment: 9
+      pivot: {x: 0.9258322, y: 0.55051506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd364192f84929f0800000000000000
+      internalID: -492782477563773448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_torso
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1132
+        width: 1347
+        height: 781
+      alignment: 9
+      pivot: {x: 0.89123905, y: 0.50692064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac31d66a903b5000800000000000000
+      internalID: 25667662588755107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_hand
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 847
+        width: 264
+        height: 219
+      alignment: 9
+      pivot: {x: 0.13146915, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7195e1a03baf80800000000000000
+      internalID: -8094322433368950138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_upper_finger
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1009
+        width: 123
+        height: 64
+      alignment: 9
+      pivot: {x: 0.23633483, y: 0.41554642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a7647be61fa16c0800000000000000
+      internalID: -4171756646981797224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_lower_finger
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1011
+        width: 123
+        height: 61
+      alignment: 9
+      pivot: {x: 0.14844643, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f4bff25eeb90e0800000000000000
+      internalID: -2261952347578763150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_foot
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 468
+        width: 364
+        height: 577
+      alignment: 9
+      pivot: {x: 0.21043983, y: 0.20491998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce6832d5d3193330800000000000000
+      internalID: 3691003178682707663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_upper_thumb
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 851
+        width: 136
+        height: 116
+      alignment: 9
+      pivot: {x: 0.12243585, y: 0.43010634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b905eeef6026e90800000000000000
+      internalID: -7034051976009573493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_lower_thumb
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 848
+        width: 113
+        height: 71
+      alignment: 9
+      pivot: {x: 0.09341971, y: 0.5380653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0474483c07c31e480800000000000000
+      internalID: -8871743335928936640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_upper_arm
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 502
+        width: 842
+        height: 323
+      alignment: 9
+      pivot: {x: 0.14051452, y: 0.47489867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff8d4e42afe66b0800000000000000
+      internalID: -5301024675003302091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_lower_arm
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 533
+        width: 648
+        height: 292
+      alignment: 9
+      pivot: {x: 0.09962068, y: 0.46297905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df595ff96b8750b0800000000000000
+      internalID: -5739965912688533552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_upper_leg
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 856
+        height: 395
+      alignment: 9
+      pivot: {x: 0.11797923, y: 0.47947454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee08de3f342b3a070800000000000000
+      internalID: 8116526958376747246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead guy_lower_leg
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 59
+        width: 792
+        height: 344
+      alignment: 9
+      pivot: {x: 0.12123208, y: 0.4764311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af929223f17a09e0800000000000000
+      internalID: -1654384624034209884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 79615f67e55489242bb67479ba92cf7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7807237408771570399
+    second: player_body
+  - first:
+      213: -8414682288822601502
+    second: player_body_glow
+  - first:
+      213: -8560204279819935372
+    second: player_eye_glow
+  - first:
+      213: -6837986269475642120
+    second: player_eye
+  - first:
+      213: 8654199359361207252
+    second: enemy_body_glow
+  - first:
+      213: 460769522031641174
+    second: enemy_body
+  - first:
+      213: -4753139755079960996
+    second: enemy_eye_glow
+  - first:
+      213: 583365913265565749
+    second: enemy_eye
+  - first:
+      213: -5490933351639652810
+    second: hazard_glow
+  - first:
+      213: -6197153678448796226
+    second: hazard
+  - first:
+      213: 2985088769179183279
+    second: tuft_glow
+  - first:
+      213: -7365925039803673295
+    second: tuft
+  - first:
+      213: 3270199235464678874
+    second: platform_glow
+  - first:
+      213: -9176540338116390063
+    second: platform
+  - first:
+      213: -6106923530103504513
+    second: floor_glow
+  - first:
+      213: 7887673399913949077
+    second: floor
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_body
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 814
+        width: 136
+        height: 166
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.111574836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f12d6b233849304094ce2631ebc392a
+      internalID: -7807237408771570399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_body_glow
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 813
+        width: 153
+        height: 167
+      alignment: 9
+      pivot: {x: 0.49629143, y: 0.12624702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52522f105dd33ec42a5528714bd5bd50
+      internalID: -8414682288822601502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_eye_glow
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 911
+        width: 52
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4890882, y: 0.282488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706f301a9dfe44d48876137107903aa3
+      internalID: -8560204279819935372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_eye
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 834
+        width: 52
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23520203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd7993b8460ca4fbd751de963e004a
+      internalID: -6837986269475642120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_body_glow
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 813
+        width: 156
+        height: 164
+      alignment: 9
+      pivot: {x: 0.4890884, y: 0.12632975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bccfb0156f805d46a20d8b901955c19
+      internalID: 8654199359361207252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_body
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 814
+        width: 137
+        height: 163
+      alignment: 9
+      pivot: {x: 0.49585807, y: 0.10315054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818e04d3d0e83c469a93f838b6e1e43
+      internalID: 460769522031641174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_eye_glow
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 903
+        width: 58
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5097835, y: 0.30729014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026d9898a5b4ae24f8c3f6d970fc35db
+      internalID: -4753139755079960996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_eye
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 829
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.53846973, y: 0.24668558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df018816d7dcf784dad8eb6b08cd1a2c
+      internalID: 583365913265565749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard_glow
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 646
+        width: 172
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49010307, y: 0.14430077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2d87e210049d14098a87fe0d6db4f3
+      internalID: -5490933351639652810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazard
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 510
+        width: 174
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1389114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa0fac963d30e048b23578298928f2a
+      internalID: -6197153678448796226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuft_glow
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 533
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4054292, y: 0.16810982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f06ffe22908ba4fb6ddd105b8bc7df
+      internalID: 2985088769179183279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuft
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 653
+        width: 97
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44150284, y: 0.12899135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93fb8fd6301ff047be64b638d75f216
+      internalID: -7365925039803673295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_glow
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 389
+        width: 560
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece554460d70834ebe77f72ff39564c
+      internalID: 3270199235464678874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 606
+        width: 561
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dddea1ffa2716e42a6dd383289fcd95
+      internalID: -9176540338116390063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_glow
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 727
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26a3bb0a294dc4a9ff2298d265649c
+      internalID: -6106923530103504513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 223
+        width: 727
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781ee7f33d91a1488e78903e8f0bd32
+      internalID: 7887673399913949077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
